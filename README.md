@@ -9,7 +9,7 @@ This project contains a complete Excel dashboard and data analysis for a fiction
 - Top 5 customers by total spending
 - Sales by country
 - Loyalty card impact on sales
-- Monthly sales trend analysis
+- Monthly sales trend analysis.
 
 ##  Tools & Skills Used
 
